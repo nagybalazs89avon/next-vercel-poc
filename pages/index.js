@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to{" "}
           <a href="https://nextjs.org">
-            Next.js! (Preview from an other branch)
+            Next.js! (Preview from feature branch)
           </a>
         </h1>
 
